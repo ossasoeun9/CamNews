@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">CamNews</string>
+    <string name="good_morning">Good Morning!</string>
+    <string name="welcome_image2">welcome image</string>
+    <string name="todo">TODO</string>
+    <string name="search">Search</string>
+    <string name="welcome_to_camnews">Welcome to CamNews</string>
+    <string name="sport">Sport</string>
+    <string name="alexander_wears_modified_helmet_in_road_races">Alexander wears modified helmet in road races</string>
+    <string name="article_desc">As a tech department, we\'re usually pretty good at spotting tech that\'s out of the ordinary.</string>
+    <string name="leav_chandara">Leav Chandara - Sep 16, 2023</string>
+    <string name="sep_16_2023"> - Sep 16, 2023</string>
+    <string name="news_for_you">News For You</string>
+    <string name="something_when_wrong">Something when wrong</string>
+    <string name="title_a">Cathie Wood\'s Ark Offloads Tesla Shares Worth $8.4M While Staying Bullish On Elon Musk\'s EV Company</string>
+    <string name="content">El cine de terror siempre ha sido un género que despierta emociones intensas en los espectadores; sin embargo, algunas películas de este género han sido tan aterradoras y perturbadoras que han sido prohibidas en ciertos países. Y con el Halloween y el Día de …</string>
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="app_label">CamNews</string>
+    <string name="search_hint">Search</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<searchable xmlns:android="http://schemas.android.com/apk/res/android"
+    android:label="@string/app_label"
+    android:hint="@string/search_hint"
+    android:searchMode="queryRewriteFromData"
+    android:includeInGlobalSearch="true"
+    android:searchButtonText="Search"
+    android:searchSuggestIntentAction="android.intent.action.VIEW"
+    android:voiceSearchMode="showVoiceSearchButton|launchRecognizer"
+    android:searchSuggestAuthority="com.example.camnews.MySuggestionProvider"
+    android:searchSuggestSelection="word MATCH ?">
+</searchable>
